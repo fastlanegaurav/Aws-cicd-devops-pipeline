@@ -1,4 +1,4 @@
-# 🚀 Flask API — Dockerized CI/CD Deployment
+## 🚀 Flask API — Dockerized CI/CD Deployment
 
 A production-style Flask API project demonstrating containerized application deployment, CI/CD automation, and cloud-ready DevOps workflows using Docker and GitHub Actions.
 
@@ -6,7 +6,7 @@ This project simulates a modern backend deployment pipeline where application ch
 
 ---
 
-# 🌐 Project Overview
+## 🌐 Project Overview
 
 This repository demonstrates:
 
@@ -21,7 +21,7 @@ The project is designed to showcase practical DevOps engineering concepts used i
 
 ---
 
-# 📐 Architecture Diagram
+## 📐 Architecture Diagram
 
                 ┌─────────────────┐
                 │    Developer    │
