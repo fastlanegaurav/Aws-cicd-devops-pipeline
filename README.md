@@ -65,7 +65,7 @@ The project is designed to showcase practical DevOps engineering concepts used i
 
 ---
 
-# ⚙️ Tech Stack
+##⚙️ Tech Stack
 
 ## Backend
 
