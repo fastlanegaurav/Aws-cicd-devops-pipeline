@@ -110,7 +110,7 @@ The project is designed to showcase practical DevOps engineering concepts used i
 
 ---
 
-# 🔄 CI/CD Workflow
+## 🔄 CI/CD Workflow
 
 ## Continuous Integration
 
@@ -123,7 +123,7 @@ Every repository update triggers:
 
 ---
 
-# 🐳 Docker Workflow
+## 🐳 Docker Workflow
 
 The application runs inside a Docker container to ensure:
 
@@ -147,7 +147,7 @@ docker run -p 5000:5000 flask-api
 
 ---
 
-# 🚀 Local Development
+## 🚀 Local Development
 
 Clone repository:
 
@@ -169,7 +169,7 @@ python app.py
 
 ---
 
-# 📊 Engineering Highlights
+## 📊 Engineering Highlights
 
 | Capability         | Value                              |
 | ------------------ | ---------------------------------- |
